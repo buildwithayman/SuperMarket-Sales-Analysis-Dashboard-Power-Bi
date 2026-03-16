@@ -2,6 +2,8 @@
 
 📊 Super Store Sales Analytics & Forecasting Dashboard | Power BI
 
+Live Project :https://www.linkedin.com/posts/mohdaymankhan_powerbi-salesanalytics-forecasting-ugcPost-7439241218657755136-Z4hA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6lchMB1GhXggGRvMK9EYtTLmv7N8IqeCI
+
 Data is most valuable when it helps businesses understand the present and predict the future.
 
 I built this interactive Super Store Sales Dashboard in Power BI to analyze sales performance and forecast upcoming demand using historical data.
